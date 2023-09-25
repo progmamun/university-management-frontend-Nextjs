@@ -1,0 +1,2 @@
+- npx create-next-app@latest um-frontend
+- npm install @reduxjs/toolkit react-redux
