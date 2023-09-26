@@ -1,2 +1,4 @@
 - npx create-next-app@latest um-frontend
 - npm install @reduxjs/toolkit react-redux
+- npm install antd --save
+- npm install @ant-design/cssinjs --save
