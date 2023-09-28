@@ -4,3 +4,4 @@
 - npm install @ant-design/cssinjs --save
 - npm install react-hook-form
 - npm i axios
+- npm i jwt-decode
