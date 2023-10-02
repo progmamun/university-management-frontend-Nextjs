@@ -5,3 +5,5 @@
 - npm install react-hook-form
 - npm i axios
 - npm i jwt-decode
+- npm i yup
+- npm install @hookform/resolvers
