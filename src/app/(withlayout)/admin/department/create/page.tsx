@@ -20,7 +20,7 @@ const CreateDepartmentPage = () => {
       message.error(err.message);
     }
   };
-  const base = "super_admin";
+  const base = "admin";
   return (
     <div>
       <UMBreadCrumb
